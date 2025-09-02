@@ -20,7 +20,7 @@ HTML5 – Structure of the website.
 
 CSS3 – Styling, responsive design, and animations.
 
-JavaScript (Vanilla JS) – Carousel logic, auto-play, and dynamic effects.
+JavaScript – Carousel logic, auto-play, and dynamic effects.
 
 
 
